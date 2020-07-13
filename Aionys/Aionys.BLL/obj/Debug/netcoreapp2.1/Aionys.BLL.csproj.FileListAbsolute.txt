@@ -1,0 +1,12 @@
+D:\Work\Aionys\Aionys.BLL\obj\Debug\netcoreapp2.1\Aionys.BLL.csprojAssemblyReference.cache
+D:\Work\Aionys\Aionys.BLL\obj\Debug\netcoreapp2.1\Aionys.BLL.csproj.CoreCompileInputs.cache
+D:\Work\Aionys\Aionys.BLL\obj\Debug\netcoreapp2.1\Aionys.BLL.AssemblyInfoInputs.cache
+D:\Work\Aionys\Aionys.BLL\obj\Debug\netcoreapp2.1\Aionys.BLL.AssemblyInfo.cs
+D:\Work\Aionys\Aionys.BLL\bin\Debug\netcoreapp2.1\Aionys.BLL.deps.json
+D:\Work\Aionys\Aionys.BLL\bin\Debug\netcoreapp2.1\Aionys.BLL.dll
+D:\Work\Aionys\Aionys.BLL\bin\Debug\netcoreapp2.1\Aionys.BLL.pdb
+D:\Work\Aionys\Aionys.BLL\bin\Debug\netcoreapp2.1\Aionys.DAL.dll
+D:\Work\Aionys\Aionys.BLL\bin\Debug\netcoreapp2.1\Aionys.DAL.pdb
+D:\Work\Aionys\Aionys.BLL\obj\Debug\netcoreapp2.1\Aionys.BLL.csproj.CopyComplete
+D:\Work\Aionys\Aionys.BLL\obj\Debug\netcoreapp2.1\Aionys.BLL.dll
+D:\Work\Aionys\Aionys.BLL\obj\Debug\netcoreapp2.1\Aionys.BLL.pdb

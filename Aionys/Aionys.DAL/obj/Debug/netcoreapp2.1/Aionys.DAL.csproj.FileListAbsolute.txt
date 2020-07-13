@@ -1,0 +1,9 @@
+D:\Work\Aionys\Aionys.DAL\bin\Debug\netcoreapp2.1\Aionys.DAL.deps.json
+D:\Work\Aionys\Aionys.DAL\bin\Debug\netcoreapp2.1\Aionys.DAL.dll
+D:\Work\Aionys\Aionys.DAL\bin\Debug\netcoreapp2.1\Aionys.DAL.pdb
+D:\Work\Aionys\Aionys.DAL\obj\Debug\netcoreapp2.1\Aionys.DAL.csprojAssemblyReference.cache
+D:\Work\Aionys\Aionys.DAL\obj\Debug\netcoreapp2.1\Aionys.DAL.csproj.CoreCompileInputs.cache
+D:\Work\Aionys\Aionys.DAL\obj\Debug\netcoreapp2.1\Aionys.DAL.AssemblyInfoInputs.cache
+D:\Work\Aionys\Aionys.DAL\obj\Debug\netcoreapp2.1\Aionys.DAL.AssemblyInfo.cs
+D:\Work\Aionys\Aionys.DAL\obj\Debug\netcoreapp2.1\Aionys.DAL.dll
+D:\Work\Aionys\Aionys.DAL\obj\Debug\netcoreapp2.1\Aionys.DAL.pdb
