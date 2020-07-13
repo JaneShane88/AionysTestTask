@@ -3,7 +3,7 @@ AionysTestTask
 -----------------------------------------------------------------------------------------
 Clone
 
-Clone this repo to your local machine using https://github.com/fvcproductions/SOMEREPO
+Clone this repo to your local machine using https://github.com/JaneShane88/AionysTestTask
 
 Running unit tests
 
