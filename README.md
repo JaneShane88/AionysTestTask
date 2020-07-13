@@ -1,16 +1,16 @@
 AionysTestTask
 
------------------------------------------------------------------------------------------
-Clone
 
+Clone
+-----------------------------------------------------------------------------------------
 Clone this repo to your local machine using https://github.com/JaneShane88/AionysTestTask
 
 Running unit tests
-
-./run-unit-tests.sh
 -----------------------------------------------------------------------------------------
-Setup
+./run-unit-tests.sh
 
+Setup
+-----------------------------------------------------------------------------------------
 1. Change to the api directory (i.e. Aionys/Aionys)
 
 cd Aionys
