@@ -39,6 +39,6 @@ npm i
 
 7. Start like any example
 
-npm run start
+ng serve --port 3000
 -----------------------------------------------------------------------------------------
 You'll find the app under the /app path: http://localhost:3000/
