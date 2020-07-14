@@ -1,0 +1,36 @@
+<p *ngIf="!notes"> None </p>
+
+<button mat-raised-button (click)="addNote()" matTooltip="Add new note">
+Add
+</button>
+
+<div *ngIf="notes">
+<table mat-table [dataSource]="notes" class="mat-elevation-z8" *ngIf="tableMode; else create">
+    <ng-container [matColumnDef]="column" *ngFor="let column of displayedColumns">
+        <th mat-header-cell *matHeaderCellDef>{{column}}</th>
+        <td mat-cell *matCellDef="let item">
+            {{item[column]}}
+            <button mat-icon-button [matMenuTriggerFor]="menu" class="button-menu" aria-label="Example icon-button with a menu" *ngIf="column === 'menu'" matTooltip="Take action on the note">
+                <mat-icon>more_vert</mat-icon>
+            </button>
+
+            <mat-menu #menu="matMenu" class="menu">
+                <button mat-menu-item (click)="editNote(item)" matTooltip="Change selected note">
+                    <mat-icon>create</mat-icon>
+                    <span>Edit</span>
+                </button>
+                <button mat-menu-item (click)="deleteNote(item)" matTooltip="Delete selected note">
+                    <mat-icon>delete</mat-icon>
+                    <span>Delete</span>
+                </button>
+                <button mat-menu-item (click)="showNote(item)" matTooltip="Show selected note">
+                    <mat-icon>info</mat-icon>
+                    <span>Show</span>
+                </button>
+            </mat-menu>
+        </td>
+    </ng-container>
+    <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+    <tr mat-row *matRowDef="let row; columns: displayedColumns"></tr>
+</table>
+</div>

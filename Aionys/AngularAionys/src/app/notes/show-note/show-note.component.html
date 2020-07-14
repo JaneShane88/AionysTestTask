@@ -1,0 +1,12 @@
+<td>
+    <input matInput type="text" [(ngModel)]="note.id" class="form-control" readonly/>
+</td>
+<td>
+    <input matInput type="text" [(ngModel)]="note.text" class="form-control" readonly/>
+</td>
+<td>
+    <input matInput type="text" [(ngModel)]="note.date" class="form-control" readonly/>
+</td>
+<td>
+    <button mat-raised-button color="warn" (click)="cancel()"><span>Cancel</span></button>
+</td>

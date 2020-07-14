@@ -1,0 +1,9 @@
+<p>add-note works!</p>
+    <div class="form-group">
+        <mat-label>Text</mat-label>
+        <textarea matInput type="text" [(ngModel)]="note.text" class="form-control"></textarea>
+    </div>
+    <div>
+        <button mat-raised-button color="primary" (click)="save()"><span>Save</span></button>
+        <button mat-raised-button color="accent" (click)="cancel()"><span>Cancel</span></button>
+    </div>
